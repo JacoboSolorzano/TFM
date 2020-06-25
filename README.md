@@ -9,24 +9,24 @@ All the data and code from my master degree thesis is aviliable in this reposito
 each one containing a html of the Jupyter noteboook for fast access
   
 
-## Generation of the High Confidence Integrated microRNA Taget prediction set (HCImiRTps)
+### Generation of the High Confidence Integrated microRNA Taget prediction set (HCImiRTps)
 > Located at [HCImiRTPs_generation folder](https://github.com/JacoboSolorzano/TFM/tree/master/HCImiRTps_generation "Title")
 
 Code and data from the generation of HCImiRTPs through the integration of TargetScanFlyV7 predictions with Wessels et al., 2019 AGO-PARCLIP experimental microRNA target set.
 \\
 
-## Generation of the High Confidence Polycomb Response Element prediction set (HCPREps)
+### Generation of the High Confidence Polycomb Response Element prediction set (HCPREps)
 > Located at [HCImiRTPs_generation folder](https://github.com/JacoboSolorzano/TFM/tree/master/HCPREps_generation "Title")
 
 Code and data from the generation of HCPREps  through the intersection of SVM-MOCCA and Khabiri and Freddolino, 2019 Polycomb response element (PRE) predictions.
-\\
+\\\\\\\\
 
-## Analysis of HCImiRTps and HCPREps
+### Analysis of HCImiRTps and HCPREps
 > Located at [Analysis folder](https://github.com/JacoboSolorzano/TFM/tree/master/Analysis "Title")
 
 Code and data from the analysis of HCImiRTPs and HCPREps. This section includes from the enrichment analysis and distance to the closest PRE calculation to the exploration of cross-talking miRNAs.
 
-## Team
+### Team
 
 > Or Contributors/People
 
