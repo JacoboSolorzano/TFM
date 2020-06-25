@@ -1,31 +1,19 @@
 <a href="http://fvcproductions.com"><img src="https://github.com/JacoboSolorzano/TFM/blob/master/misc/circuito.png" title="FVCproductions" alt="FVCproductions"></a>
 
-<-- [Alt text](misc/circuito.png?raw=true "") -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
-# TFM - In-silico analysis of the microRNAs and the Polycomb group of genes regulatory circuit in Drosophila melanogaster.
+# In-silico analysis of the microRNAs and the Polycomb group of genes regulatory circuit in Drosophila melanogaster.
 
 > Master degree thesis
 
-> All the data and code from my Mater degree thesis is aviliable here
+All the data and code from my master degree thesis is aviliable in this repository. It can be further divided in 3 parts
+each one containing a html of the Jupyter noteboook for fast access
 
-> include terms/tags that can be searched
 
-**Badges will go here**
+## Generation of the High Confidence Integrated microRNA Taget prediction set (HCImiRTps)
+> Located at [HCImiRTPs_generation folder](https://github.com/JacoboSolorzano/TFM/tree/master/HCImiRTps_generation "Title")
+In this part HCImiRTPs is generated through the integration of TargetScanFlyV7 predictions with Wessels et al., 2019 AGO-PARCLIP experimental microRNA target set
+ 
 
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
-
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
 
