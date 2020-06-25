@@ -11,8 +11,9 @@ each one containing a html of the Jupyter noteboook for fast access
 
 ## Generation of the High Confidence Integrated microRNA Taget prediction set (HCImiRTps)
 > Located at [HCImiRTPs_generation folder](https://github.com/JacoboSolorzano/TFM/tree/master/HCImiRTps_generation "Title")
+
 In this part HCImiRTPs is generated through the integration of TargetScanFlyV7 predictions with Wessels et al., 2019 AGO-PARCLIP experimental microRNA target set
- 
+
 
 
 - For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
