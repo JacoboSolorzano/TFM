@@ -12,132 +12,19 @@ each one containing a html of the Jupyter noteboook for fast access
 ## Generation of the High Confidence Integrated microRNA Taget prediction set (HCImiRTps)
 > Located at [HCImiRTPs_generation folder](https://github.com/JacoboSolorzano/TFM/tree/master/HCImiRTps_generation "Title")
 
-In this part HCImiRTPs is generated through the integration of TargetScanFlyV7 predictions with Wessels et al., 2019 AGO-PARCLIP experimental microRNA target set
+Code and data from the generation of HCImiRTPs through the integration of TargetScanFlyV7 predictions with Wessels et al., 2019 AGO-PARCLIP experimental microRNA target set.
 
 
+## Generation of the High Confidence Polycomb Response Element prediction set (HCPREps)
+> Located at [HCImiRTPs_generation folder](https://github.com/JacoboSolorzano/TFM/tree/master/HCPREps_generation "Title")
 
-- For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
-
-***INSERT ANOTHER GRAPHIC HERE***
-
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
-
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
+Code and data from the generation of HCPREps  through the intersection of SVM-MOCCA and Khabiri and Freddolino, 2019 Polycomb response element (PRE) predictions.
 
 
----
+## Analysis of HCImiRTps and HCPREps
+> Located at [Analysis folder](https://github.com/JacoboSolorzano/TFM/tree/master/Analysis "Title")
 
-## Example (Optional)
-
-```javascript
-// code away!
-
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
-```
-
----
-
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
-
-### Clone
-
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
-
-### Setup
-
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
-
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
-
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
-
----
-
-## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
-
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
-
----
-
-## Contributing
-
-> To get started...
-
-### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
-
----
+Code and data from the analysis of HCImiRTPs and HCPREps. This section includes from the enrichment analysis and distance to the closest PRE calculation to the exploration of cross-talking miRNAs.
 
 ## Team
 
