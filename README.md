@@ -1,4 +1,4 @@
-<a href="http://fvcproductions.com"><img src="https://github.com/JacoboSolorzano/TFM/blob/master/misc/circuito.png" title="FVCproductions" alt="FVCproductions"></a>
+<img src="https://github.com/JacoboSolorzano/TFM/blob/master/misc/circuito.png">
 
 
 # In-silico analysis of the microRNAs and the Polycomb group of genes regulatory circuit in Drosophila melanogaster.
